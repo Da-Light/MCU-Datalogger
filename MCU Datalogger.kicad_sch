@@ -2611,7 +2611,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 191.77 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2647,6 +2647,16 @@
 		(property "Description" "Unpolarized capacitor"
 			(at 187.96 82.55 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 187.96 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2748,7 +2758,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 205.74 73.66 0)
+		(at 207.01 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2759,7 +2769,7 @@
 		(fields_autoplaced yes)
 		(uuid "169e9c8d-7795-4254-8222-dd0c37939eeb")
 		(property "Reference" "Y1"
-			(at 205.74 66.04 0)
+			(at 207.01 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2768,8 +2778,8 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
-			(at 205.74 68.58 0)
+		(property "Value" "16MHz"
+			(at 207.01 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2779,7 +2789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 73.66 0)
+			(at 207.01 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2790,7 +2800,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 73.66 0)
+			(at 207.01 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2801,8 +2811,18 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 205.74 73.66 0)
+			(at 207.01 62.23 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 207.01 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3428,7 +3448,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 102.87 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3464,6 +3484,16 @@
 		(property "Description" "Resistor"
 			(at 100.33 50.8 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 100.33 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3565,7 +3595,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 165.1 64.77 0)
+		(at 200.66 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3576,7 +3606,7 @@
 		(fields_autoplaced yes)
 		(uuid "647cca2c-e6da-442c-9180-a186c7c7b4d0")
 		(property "Reference" "C4"
-			(at 168.91 63.4999 0)
+			(at 204.47 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3586,8 +3616,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 168.91 66.0399 0)
+		(property "Value" "0.1 uF"
+			(at 204.47 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3598,7 +3628,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.0652 68.58 0)
+			(at 201.6252 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3609,7 +3639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 64.77 0)
+			(at 200.66 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3620,8 +3650,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 165.1 64.77 0)
+			(at 200.66 29.21 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 200.66 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3668,7 +3708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 269.24 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3704,6 +3744,16 @@
 		(property "Description" "Resistor"
 			(at 266.7 52.07 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 266.7 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3750,7 +3800,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7K"
 			(at 105.41 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3786,6 +3836,16 @@
 		(property "Description" "Resistor"
 			(at 102.87 167.64 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 102.87 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4008,7 +4068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7K"
 			(at 114.3 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4044,6 +4104,16 @@
 		(property "Description" "Resistor"
 			(at 111.76 167.64 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 111.76 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4090,7 +4160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 93.98 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4126,6 +4196,16 @@
 		(property "Description" "Resistor"
 			(at 91.44 49.53 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 91.44 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4172,7 +4252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1 uF"
 			(at 95.25 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4208,6 +4288,16 @@
 		(property "Description" "Unpolarized capacitor"
 			(at 91.44 59.69 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 91.44 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4254,7 +4344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22pF"
 			(at 203.2 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4290,6 +4380,16 @@
 		(property "Description" "Unpolarized capacitor"
 			(at 199.39 82.55 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 199.39 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4336,7 +4436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100nF"
 			(at 271.78 39.7509 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4372,6 +4472,16 @@
 		(property "Description" "Polarized capacitor"
 			(at 267.97 39.37 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 267.97 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4608,7 +4718,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768 KHz"
 			(at 41.91 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4643,6 +4753,16 @@
 		(property "Description" "Two pin crystal"
 			(at 41.91 55.88 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 41.91 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4688,7 +4808,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 203.2 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4723,6 +4843,16 @@
 		(property "Description" "Resistor"
 			(at 203.2 92.71 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 203.2 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4848,7 +4978,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 182.88 48.26 0)
+		(at 204.47 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4859,7 +4989,7 @@
 		(fields_autoplaced yes)
 		(uuid "e86afb91-ce86-444e-9819-2cfad89b27b0")
 		(property "Reference" "D1"
-			(at 181.2925 41.91 0)
+			(at 202.8825 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4869,7 +4999,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 181.2925 44.45 0)
+			(at 202.8825 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4879,7 +5009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 48.26 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4890,7 +5020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 48.26 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4901,7 +5031,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 182.88 48.26 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4912,7 +5042,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 182.88 48.26 0)
+			(at 204.47 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4939,7 +5069,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 163.83 49.53 0)
+		(at 190.5 45.72 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4950,29 +5080,27 @@
 		(fields_autoplaced yes)
 		(uuid "ed59b123-f13f-4625-9424-744d401d35ce")
 		(property "Reference" "R4"
-			(at 166.37 48.2599 0)
+			(at 190.5 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 166.37 50.7999 0)
+		(property "Value" "330"
+			(at 190.5 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 162.052 49.53 90)
+			(at 190.5 47.498 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4983,7 +5111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 49.53 0)
+			(at 190.5 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4994,8 +5122,18 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 163.83 49.53 0)
+			(at 190.5 45.72 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Purpose" ""
+			(at 190.5 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
