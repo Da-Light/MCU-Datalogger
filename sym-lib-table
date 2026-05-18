@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ATMEGA328P-AU") (type "KiCad") (uri "C:/Users/HP/Desktop/KiCad First Project/ATMEGA328P-AU") (options "") (descr ""))
+)
