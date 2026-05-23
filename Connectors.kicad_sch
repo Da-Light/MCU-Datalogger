@@ -1013,7 +1013,7 @@
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
-		(at 116.84 100.33 0)
+		(at 116.84 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1024,7 +1024,7 @@
 	)
 	(hierarchical_label "RX"
 		(shape input)
-		(at 146.05 101.6 0)
+		(at 146.05 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1046,7 +1046,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 116.84 95.25 0)
+		(at 116.84 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1090,7 +1090,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 116.84 97.79 0)
+		(at 116.84 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1101,7 +1101,7 @@
 	)
 	(hierarchical_label "MISO"
 		(shape output)
-		(at 137.16 121.92 180)
+		(at 140.97 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1112,7 +1112,7 @@
 	)
 	(hierarchical_label "MOSI"
 		(shape input)
-		(at 149.86 124.46 0)
+		(at 153.67 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1123,7 +1123,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 146.05 99.06 0)
+		(at 146.05 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1134,7 +1134,7 @@
 	)
 	(hierarchical_label "SCK"
 		(shape passive)
-		(at 116.84 102.87 0)
+		(at 116.84 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1156,7 +1156,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 146.05 96.52 0)
+		(at 146.05 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1167,7 +1167,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 149.86 121.92 0)
+		(at 153.67 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1189,7 +1189,7 @@
 	)
 	(hierarchical_label "RESET"
 		(shape passive)
-		(at 137.16 127 180)
+		(at 140.97 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1211,7 +1211,7 @@
 	)
 	(hierarchical_label "TX"
 		(shape output)
-		(at 146.05 104.14 0)
+		(at 146.05 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1222,7 +1222,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 149.86 127 0)
+		(at 153.67 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1233,7 +1233,7 @@
 	)
 	(hierarchical_label "SCK"
 		(shape passive)
-		(at 137.16 124.46 180)
+		(at 140.97 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1266,7 +1266,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
-		(at 142.24 124.46 0)
+		(at 146.05 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1276,7 +1276,7 @@
 		(dnp no)
 		(uuid "0347b1ce-02fc-43aa-881a-08a30cda1cd2")
 		(property "Reference" "J4"
-			(at 143.51 115.57 0)
+			(at 147.32 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1286,7 +1286,7 @@
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
-			(at 143.51 118.11 0)
+			(at 147.32 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1296,7 +1296,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-			(at 142.24 124.46 0)
+			(at 146.05 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1307,7 +1307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 124.46 0)
+			(at 146.05 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1318,7 +1318,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 142.24 124.46 0)
+			(at 146.05 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1329,7 +1329,7 @@
 			)
 		)
 		(property "Purpose" "ICSP"
-			(at 143.51 131.318 0)
+			(at 147.32 128.778 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1367,7 +1367,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 111.76 97.79 0)
+		(at 111.76 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1377,7 +1377,7 @@
 		(dnp no)
 		(uuid "42678927-8e9d-482c-bc0f-5e2abd6f135d")
 		(property "Reference" "J1"
-			(at 112.395 90.17 0)
+			(at 112.395 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1387,7 +1387,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 112.395 92.71 0)
+			(at 112.395 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1397,7 +1397,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 111.76 97.79 0)
+			(at 111.76 95.25 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1408,7 +1408,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 97.79 0)
+			(at 111.76 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1419,7 +1419,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 111.76 97.79 0)
+			(at 111.76 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1430,7 +1430,7 @@
 			)
 		)
 		(property "Purpose" "I2C"
-			(at 115.316 105.156 0)
+			(at 115.316 102.616 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1462,7 +1462,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 140.97 99.06 0)
+		(at 140.97 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1472,7 +1472,7 @@
 		(dnp no)
 		(uuid "c8b71602-ad60-4287-89ad-3713aa63130f")
 		(property "Reference" "J2"
-			(at 141.605 91.44 0)
+			(at 141.605 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1482,7 +1482,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 141.605 93.98 0)
+			(at 141.605 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1492,7 +1492,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 140.97 99.06 0)
+			(at 140.97 95.25 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1503,7 +1503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 99.06 0)
+			(at 140.97 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1514,7 +1514,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 140.97 99.06 0)
+			(at 140.97 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1525,7 +1525,7 @@
 			)
 		)
 		(property "Purpose" "Serial UART"
-			(at 144.272 106.934 0)
+			(at 144.272 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
