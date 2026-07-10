@@ -2,3 +2,5 @@
 *.lck 
 *.kicad_prl 
 .history/ 
+MCU.ses 
+freerouting.ses 
