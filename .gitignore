@@ -1,6 +1,28 @@
-*-backups/ 
-*.lck 
-*.kicad_prl 
-.history/ 
-MCU.ses 
-freerouting.ses 
+
+
+KiCad 9.0 / 10.0 Temporary and Backup Files
+
+*.bak
+*-bak
+*.kicad_prl
+*.bck
+*.rpt
+fp-info-cache
+
+KiCad Backups directory
+
+*-backups/
+
+VS Code / local editor history
+
+.history/
+
+Auto-save lock files & temporary system files
+
+.lck
+~
+
+Freerouting Session and Log Files
+
+*.ses
+freerouting.log
