@@ -28,3 +28,4 @@ Freerouting Session and Log Files
 freerouting.log
  MCU Datalogger.kicad_pcb.lck
  MCU Datalogger.kicad_pro.lck
+*.lck
