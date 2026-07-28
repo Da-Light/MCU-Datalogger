@@ -1011,6 +1011,56 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Connectors\n"
+		(exclude_from_sim no)
+		(at 106.68 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "877040e1-5aac-465c-8ec0-c0adc4fb65b4")
+	)
+	(polyline
+		(pts
+			(xy 101.6 83.82) (xy 101.6 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1156d021-29c2-4922-8fe1-37a137724af4")
+	)
+	(polyline
+		(pts
+			(xy 161.29 144.78) (xy 101.6 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "523db094-ee55-4b75-8a84-092e202d756b")
+	)
+	(polyline
+		(pts
+			(xy 101.6 83.82) (xy 161.29 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de1194c6-1f7d-4420-95d9-5aa6ea7af4e4")
+	)
+	(polyline
+		(pts
+			(xy 161.29 83.82) (xy 161.29 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb37acbd-57a3-4ce6-8402-a195fdf44c88")
+	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 116.84 97.79 0)
@@ -1132,7 +1182,7 @@
 		)
 		(uuid "400f334b-8e62-4bd4-9017-ec41799cc69e")
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 116.84 100.33 0)
 		(effects
