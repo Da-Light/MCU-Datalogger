@@ -54,12 +54,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "extra_footprint|161584293|63232306|342265ec-24d5-4b36-97bc-27f00994fbcc|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -75,7 +70,7 @@
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
-        "extra_footprint": "warning",
+        "extra_footprint": "ignore",
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_field_mismatch": "warning",
@@ -564,7 +559,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/HP/Desktop/KiCad First Project/MCU Datalogger/4 Layered Gerber files/",
+      "plot": "",
       "specctra_dsn": "",
       "vrml": ""
     },
